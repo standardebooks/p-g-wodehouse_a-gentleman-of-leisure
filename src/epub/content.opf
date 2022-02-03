@@ -46,37 +46,46 @@
 		<meta property="term" refines="#subject-5">sh2007101976</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Jimmy Pitt gets much more than he bargained for when he bets his friends at the Strollers’ Club that he can successfully burgle a house.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Having inherited a fortune, and just back to New York from a cruise on which he spotted an intriguing young woman he never spoke to, Jimmy Pitt is drifting. So after seeing a blockbuster play about a gentleman thief, he’s all too willing to bet his friends at the Strollers’ Club that he could pull off a burglary himself. That night he makes friends with a real-life “Bowery Boy” thief, who helps him break into a corrupt police captain’s house uptown, and everyone gets way more than they bargained for. Later, the action moves to the Earl of Dreever’s castle in England, where the misunderstandings, threats, cheating, and confusion only multiply, requiring all of Jimmy’s wits and daring to clear up.&lt;/p&gt;
+			&lt;p&gt;In this short novel, &lt;a href=&quot;https://standardebooks.org/ebooks/p-g-wodehouse&quot;&gt;P. G. Wodehouse&lt;/a&gt; takes on many of the themes his fans will recognize from his Jeeves and Bertie Wooster books: the often-ridiculous upper class, the frequent need to hide one’s suspicious origins (while uncovering the guises of others), and the importance of amateur theatricals, dressing for dinner, champagne, and finding true love.&lt;/p&gt;
+			&lt;p&gt;First published in 1910, &lt;i&gt;A Gentleman of Leisure&lt;/i&gt; has also appeared in several other versions, under the titles &lt;i&gt;The Gem Collector&lt;/i&gt; and &lt;i&gt;The Intrusion of Jimmy&lt;/i&gt;. The work was clearly popular, since it was also adapted into a Broadway play that starred Douglas Fairbanks Sr., and silent movie versions followed in 1915 and 1923. This Standard Ebook is based on the edition published in 1921 by Herbert Jenkins Ltd.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/65172</dc:source>
 		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">This book has British spelling but American punctuation. The hyphens from adjective-and-noun pairs not listed in merriam-webster.com were generally removed. See editorial commits for lists of words changed.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Gentleman_of_Leisure</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_a-gentleman-of-leisure</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Pelham Grenville Wodehouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">George Bellows</dc:contributor>
+		<meta property="file-as" refines="#artist">Bellows, George</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Bellows</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n78089036.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">D A Alexander</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Alexander, D A</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Stephen Hutcheson</dc:contributor>
+		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_URL</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">John Rambow</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rambow, John</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://johnrambow.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
