@@ -29,8 +29,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A Gentleman of Leisure</dc:title>
 		<meta property="file-as" refines="#title">Gentleman of Leisure, A</meta>
-		<meta property="dcterms:alternate" refines="#title">The Gem Collector</meta>
-		<meta property="dcterms:alternate" refines="#title">The Intrusion of Jimmy</meta>
+		<meta property="dcterms:alternative" refines="#title">The Gem Collector</meta>
+		<meta property="dcterms:alternative" refines="#title">The Intrusion of Jimmy</meta>
 		<dc:subject id="subject-1">New York (N.Y.) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Humorous stories</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
