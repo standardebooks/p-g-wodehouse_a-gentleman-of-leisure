@@ -61,7 +61,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/65172</dc:source>
 		<dc:source>https://archive.org/details/intrusionofjimmy00wodeuoft</dc:source>
 		<meta property="se:production-notes">This book has British spelling but American punctuation. The hyphens from adjective-and-noun pairs not listed in merriam-webster.com were generally removed. See editorial commits for lists of words changed.</meta>
-		<meta property="se:word-count">70210</meta>
+		<meta property="se:word-count">68168</meta>
 		<meta property="se:reading-ease.flesch">77.03</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Gentleman_of_Leisure</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_a-gentleman-of-leisure</meta>
