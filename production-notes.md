@@ -1,0 +1,1 @@
+This book has British spelling but American punctuation. The hyphens from adjective-and-noun pairs not listed in merriam-webster.com were generally removed. See editorial commits for lists of words changed.
